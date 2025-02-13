@@ -29,5 +29,5 @@
   </a>
 </div>
 
-Atualmente estudando bancos de dados pela empresa BRISA / Residente SERRATEC.
+Atualmente fazendo um projeto de webpage para empresa SabruTattoo
 
